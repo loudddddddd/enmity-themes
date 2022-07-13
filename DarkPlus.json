@@ -1,11 +1,11 @@
 {
-  "name": "DarkPlus",
-  "version": "V3.9",
-  "description": "A nice combination of dark grey and purple",
+  "name": "ReallyDark",
+  "version": "v1.01",
+  "description": "Modifications to DarkPlus that make the theme look better",
   "authors": [
     {
-      "name": "Fel1x#2802",
-      "id": "499287211381096458"
+      "name": "loud#0760",
+      "id": "976956328713003029"
     }
   ],
   "theme_color_map": {
