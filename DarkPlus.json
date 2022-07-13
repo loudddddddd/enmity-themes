@@ -129,6 +129,10 @@
       "#cdaef3",
       "#6c56c4"
     ],
+    "TEXT_NORMAL": [
+      "#cdaef3",
+      "#FFFFFF"
+    ],
     "CHANNEL_ICON": [
       "#bb86fc",
       "#6c56c4"
@@ -147,7 +151,8 @@
     "PRIMARY_DARK_700": "#171717",
     "PRIMARY_DARK_800": "#171717",
     "PRIMARY_DARK_900": "#171717",
-    "BRAND_NEW": "#171717"
+    "BRAND_NEW": "#171717",
+    "WHITE": "#cdaef3"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#171717"
