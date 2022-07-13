@@ -21,14 +21,6 @@
       "#B6B6B6",
       "#FFFFFF"
     ],
-    "TEXT_NORMAL": [
-      "#FBFBFB",
-      "#FFFFFF"
-    ],
-    "TEXT_MUTED": [
-      "#B6B6B6",
-      "#FFFFFF"
-    ],
     "INTERACTIVE_NORMAL": [
       "#cdaef3",
       "#FFFFFF"
@@ -134,7 +126,7 @@
       "#6c56c4"
     ],
     "TEXT_MUTED": [
-      "#cdaef3",
+      "#B6B6B6",
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
