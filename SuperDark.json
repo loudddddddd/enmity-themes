@@ -133,6 +133,10 @@
       "#cdaef3",
       "#6c56c4"
     ],
+    "TEXT_MUTED": [
+      "#cdaef3",
+      "#FFFFFF"
+    ],
     "CHANNEL_ICON": [
       "#bb86fc",
       "#6c56c4"
