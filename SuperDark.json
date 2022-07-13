@@ -128,7 +128,11 @@
     "CHANNEL_ICON": [
       "#bb86fc",
       "#6c56c4"
-    ]
+    ],
+    "LOGO_PRIMARY": [
+      "#cdaef3",
+      "#FFFFFF"
+    ],
   },
   "colours": {
     "PRIMARY_DARK": "#171717",
